@@ -9,7 +9,7 @@
     <h2>CRUD DATA STOK SAAT INI</h2>
     <br>
     <h3>Tambah Data Stok</h3>
-    <form action="createStokSaatIni.php" method="post">
+    <form action="createStok.php" method="post">
         <table>
             <tr>
                 <td>Produk</td>
