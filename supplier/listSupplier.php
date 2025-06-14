@@ -10,12 +10,12 @@
     <br>
     <table border="1" cellPadding='2'>
         <tr>
-            <th>id_supplier</th>
-            <th>Nama</th>
-            <th>alamat</th>
-            <th>telepon</th>
-            <th>email</th>
-            <th>kontak person</th>
+            <th class="px-1">id_supplier</th>
+            <th class="px-1">Nama</th>   
+            <th class="px-1">alamat</th>
+            <th class="px-1">telepon</th>
+            <th class="px-1">email</th>
+            <th class="px-1">kontak person</th>
         </tr>
         <?php
         include 'db_connection.php';

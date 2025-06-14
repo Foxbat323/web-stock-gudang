@@ -11,7 +11,7 @@
     <br>
     <h2>CRUD DATA SUPPLIER</h2>
     <br>
-    <a href="listSupplier.php">KEMBALI</a>
+    <a href="supplierView.php">KEMBALI</a>
     <br>
     <h3>EDIT DATA SUPPLIER</h3>
     <?php

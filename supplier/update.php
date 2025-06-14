@@ -10,4 +10,4 @@ $kontak_person = $_POST['kontak_person'];
 mysqli_query($connection, "update supplier set nama_supplier = '$nama_supplier', 
 alamat ='$alamat', telepon = '$telepon', email ='$email', kontak_person= '$kontak_person' where id_supplier = '$id_supplier'");
 
-header("location:listSupplier.php");
+header("location:supplierView.php");
